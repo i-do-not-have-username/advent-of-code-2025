@@ -4,7 +4,7 @@ My solutions for [Advent of Code 2025](https://adventofcode.com/2025) - a series
 
 ## About Advent of Code
 
-Advent of Code is an annual event featuring daily programming challenges from December 1st through December 25th. Each day presents a two-part puzzle that requires creative problem-solving and programming skills.
+Advent of Code is an annual event featuring daily programming challenges in December. Each day presents a two-part puzzle that requires creative problem-solving and programming skills.
 
 ## Repository Structure
 
@@ -14,7 +14,7 @@ advent-of-code-2025/
 ├── Day 02/
 ├── Day 03/
 ...
-└── Day 25/
+└── Day 12/
 └── README.md
 ```
 
@@ -29,21 +29,8 @@ Each day folder contains:
 ## How to Run
 
 ### Prerequisites
-- Java 21 or higher
+- Java 17 or higher
 - JDK installed and configured
-
-### Running Solutions
-
-```bash
-# Navigate to a specific day folder
-cd "Day 01"
-
-# Compile the solution
-javac Solution.java
-
-# Run the solution
-java Solution
-```
 
 ## Progress
 
@@ -53,7 +40,7 @@ java Solution
 | 2   | -      | -      | Pending|
 | 3   | -      | -      | Pending|
 | ... | ...    | ...    | ...    |
-| 25  | -      | -      | Pending|
+| 12  | -      | -      | Pending|
 
 ## Approach & Learnings
 
