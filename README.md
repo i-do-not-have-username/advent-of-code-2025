@@ -62,7 +62,7 @@ This repository serves as a platform to:
 
 ## Author
 
-**GitHub**: [@9156565755](https://github.com/9156565755)
+**GitHub**: [@i-do-not-have-username](https://github.com/i-do-not-have-username)
 
 **Last Updated**: December 2025
 
