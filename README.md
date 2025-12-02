@@ -37,7 +37,7 @@ Each day folder contains:
 | Day | Part 1 | Part 2 | Status |
 |-----|--------|--------|--------|
 | 1   | ✅      | ✅      | Done   |
-| 2   | -      | -      | Pending|
+| 2   | ✅      | ✅      | Done   |
 | 3   | -      | -      | Pending|
 | ... | ...    | ...    | ...    |
 | 12  | -      | -      | Pending|
