@@ -21,6 +21,7 @@ advent-of-code-2025/
 Each day folder contains:
 - Problem description
 - Solution files
+- Input File
 
 ## Languages Used
 
