@@ -44,6 +44,7 @@ Each day folder contains:
 | 5   | ✅      | ✅      | Done   |
 | 6   | ✅      | ✅      | Done   |
 | 7   | ✅      | ✅      | Done   |
+| 8   | ✅      | ✅      | Done   |
 | ... | ...    | ...    | ...    |
 | 12  | -      | -      | Pending|
 
