@@ -56,7 +56,6 @@ Each day folder contains:
 | 10  | ✅      | ✅      | Done   |
 | 11  | ✅      | ✅      | Done   |
 | 12  | ✅      | ✅      | Done   |
-|-----|--------|--------|--------|
 
 ## Approach & Learnings
 
