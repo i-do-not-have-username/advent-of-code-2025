@@ -55,10 +55,9 @@ Each day folder contains:
 ## Approach & Learnings
 
 This repository serves as a platform to:
-- Practice Java programming and algorithmic thinking
+- Practice Java & COBOL programming
 - Solve complex problems under time constraints
 - Explore different approaches to the same problem
-- Build reusable utility functions and helper methods
 
 ## Notes
 
