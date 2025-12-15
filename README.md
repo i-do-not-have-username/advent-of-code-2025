@@ -35,6 +35,47 @@ Each day folder contains:
 - Java
 - COBOL
 
+- ## Setup & Compilation
+
+### COBOL Solutions with gnuCOBOL
+
+The COBOL solutions in this repository are compiled and executed using **gnuCOBOL**, a free and open-source COBOL compiler.
+
+#### Installation
+
+**Ubuntu/Debian:**
+```bash
+sudo apt-get install gnucobol
+```
+
+**macOS (Homebrew):**
+```bash
+brew install gnu-cobol
+```
+
+**Windows:**
+Download the installer from [gnuCOBOL official website](https://sourceforge.net/projects/gnucobol/files/)
+
+#### Compilation
+
+To compile a COBOL program:
+```bash
+cobc -x -free SourceFilename.cob -o OutputName
+```
+
+**Flags used:**
+- `-x`: Generate an executable program
+- `-free`: Use free-form COBOL syntax
+
+#### Execution
+
+Run the compiled program:
+```bash
+./OutputName
+```
+
+**Note:** Input files for each puzzle should be placed in the same directory as the executable or provide the full path when running the program.
+
 ## Progress
 
 | Day | Part 1 | Part 2 | Status |
