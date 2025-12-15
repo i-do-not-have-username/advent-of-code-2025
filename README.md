@@ -61,9 +61,9 @@ This repository serves as a platform to:
 
 ## Notes
 
-- These solutions demonstrate the versatility of problem-solving across Java and COBOL programming languages
-- Each solution focuses on correctness and clarity rather than extreme optimization
-- 
+- These solutions demonstrate the versatility of problem-solving across Java and COBOL programming languages.
+- Each solution focuses on correctness and clarity rather than extreme optimization.
+
 ## References
 
 - [Advent of Code Official Website](https://adventofcode.com/)
