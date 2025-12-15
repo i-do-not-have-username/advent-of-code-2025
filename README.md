@@ -35,7 +35,7 @@ Each day folder contains:
 - Java
 - COBOL
 
-- ## Setup & Compilation
+## Setup & Compilation
 
 ### COBOL Solutions with gnuCOBOL
 
