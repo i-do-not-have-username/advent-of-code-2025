@@ -32,13 +32,8 @@ Each day folder contains:
 
 ## Languages Used
 
-- **Java**: Primary language for all solutions
-
-## How to Run
-
-### Prerequisites
-- Java 17 or higher
-- JDK installed and configured
+- Java
+- COBOL
 
 ## Progress
 
@@ -65,12 +60,11 @@ This repository serves as a platform to:
 - Explore different approaches to the same problem
 - Build reusable utility functions and helper methods
 
-## Performance Notes
+## Notes
 
-- Focusing on correctness and clean code first
-- Optimization for performance as a secondary concern
-- Using standard library utilities where appropriate
-
+- These solutions demonstrate the versatility of problem-solving across Java and COBOL programming languages
+- Each solution focuses on correctness and clarity rather than extreme optimization
+- 
 ## References
 
 - [Advent of Code Official Website](https://adventofcode.com/)
